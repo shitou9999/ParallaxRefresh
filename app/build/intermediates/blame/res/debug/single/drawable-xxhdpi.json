@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\refresh_down_icon_1.png",
+        "source": "E:\\Github\\ParallaxRefresh\\app\\src\\main\\res\\drawable-xxhdpi\\refresh_down_icon_1.png"
+    },
+    {
+        "merged": "E:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\refresh_down_icon_3.png",
+        "source": "E:\\Github\\ParallaxRefresh\\app\\src\\main\\res\\drawable-xxhdpi\\refresh_down_icon_3.png"
+    },
+    {
+        "merged": "E:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\refresh_down_background.png",
+        "source": "E:\\Github\\ParallaxRefresh\\app\\src\\main\\res\\drawable-xxhdpi\\refresh_down_background.png"
+    },
+    {
+        "merged": "E:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\refresh_down_icon_2.png",
+        "source": "E:\\Github\\ParallaxRefresh\\app\\src\\main\\res\\drawable-xxhdpi\\refresh_down_icon_2.png"
+    }
+]

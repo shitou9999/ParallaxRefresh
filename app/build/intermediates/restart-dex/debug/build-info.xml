@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="1836901689466085"
+    token="417050323458772379"
+    verifier="INITIAL_BUILD" >
+
+    <task
+        name="javac"
+        duration="450" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="658" />
+    <task
+        name="verifier"
+        duration="200" />
+
+    <artifact
+        location="E:\Github\ParallaxRefresh\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="1836901689466085"
+        verifier="INITIAL_BUILD" >
+        <artifact
+            location="E:\Github\ParallaxRefresh\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

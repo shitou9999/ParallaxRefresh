@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_7347b0486a8d2dabb5cad4b3bba42bed56231f49\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\android-sdk_r24.4.1-windows\android-sdk-windows\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_596b30178f11b1ddb92aed459a756700a5effd78\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6389a8b914cfaa3ffe7e8daa070a297d80dae535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_d4214d00571327ed7d49d6a70119a91496aa1cdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_2a62dabaf5c21397f9706697a41c1765ad9d1abd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_084fb64558ed573629531fea1f723a963c9ec998\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b3c4e1f69c340c1727acd66c230420aeef207c70\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_566d6dd17014b13482a339977a94e2c8b164f131\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_70ac90569969971e8d57f375cc7a14a916ccbc51\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_0a758129c7398c4ba60f49b664ef334a27d1c38d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_86a0a45f4605dfd9374c808f1ced1a5707e02a75\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.2.1_5b87525706afdd6b8501ee65b531f82f7f610bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3bc2ebdf0f88134ec11199a1eb8629fb085bf2a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_470292eda699afe7d33b7e608af69e3ad3d1fa4f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="27f55d522ddea3353e9e1535233d3650a62a9d7a">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7f64880675eb0572dd04ba3ada1388d8fcd11667\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.2.1_4e55d3b154f4bb93fc2d35fac688504009d13dc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_c6dd7f178c373fb1f5203150c379f5ef1043c90a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="09d4ba2d9ced55fe3da8b5b82e44c3e188c9e9b0">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2415633ce6a9bbf38c380e9691b4a8f69e309d29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Github\ParallaxRefresh\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\Github\ParallaxRefresh\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_476efd22f4148559dd0130bb7bd148693b5b921c\classes.dex" />
+    </item>
+
+</items>

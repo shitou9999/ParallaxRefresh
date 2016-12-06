@@ -1,0 +1,7 @@
+#Tue Dec 06 15:10:54 CST 2016
+base.0=E\:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f64880675eb0572dd04ba3ada1388d8fcd11667
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2415633ce6a9bbf38c380e9691b4a8f69e309d29\\classes.dex
+base.1=E\:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2415633ce6a9bbf38c380e9691b4a8f69e309d29
+file.0=E\:\\Github\\ParallaxRefresh\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7f64880675eb0572dd04ba3ada1388d8fcd11667\\classes.dex
